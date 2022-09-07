@@ -18,6 +18,7 @@ public class DEMaster  extends JFrame implements ActionListener
 	Connection con;
 	Statement stmt;
 	ResultSet rs;
+	int chinmay;
 	
 	public DEMaster()
 	{
